@@ -19,4 +19,4 @@ CloudbyMe is a mobile application for weather prediction and analysis where this
 
 ## CloudByme System Diagram
 
-![Cloudbyme System Diagram](system-diagram.png)
+![Cloudbyme System Diagram](/system-diagram.png)
